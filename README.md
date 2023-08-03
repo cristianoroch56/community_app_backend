@@ -1,1 +1,2 @@
-# community_app_backend
+# community_app_django
+
